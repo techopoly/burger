@@ -1,0 +1,18 @@
+.Checkout{
+    height : 100px;
+}
+
+
+.Modal {
+    list-style-type: none;
+    width : 40vw;
+    margin: auto;
+    background-color: cornsilk;
+    padding : 2rem;
+}
+
+.Modal li{
+    padding : 1rem;
+    font-weight: bold;
+}
+

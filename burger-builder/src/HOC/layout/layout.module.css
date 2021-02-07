@@ -1,0 +1,18 @@
+*{
+    margin: 0
+}
+.LayoutLi {
+    display: inline-block; 
+    margin : 1rem;
+    margin-right: 4rem;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.LayoutUl{
+    background-color: burlywood;
+    margin-bottom: 8vh;
+    text-align: right;
+}
+
