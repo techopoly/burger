@@ -3,8 +3,7 @@ import './App.css';
 import BurgerBuilder from './Container/burgerBuilder/BurgerBuilder';
 import Checkout from './Container/checkout/Checkout'
 import { BrowserRouter, Route } from 'react-router-dom';
-import ingredientsContext from './context/ingredient-context'
-
+import ingredientsContext from './context/ingredient-context';
 
 
 class App extends Component {
